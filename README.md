@@ -17,8 +17,9 @@ Actualmente, me encuentro potenciando mis habilidades en mi tercer módulo de pr
 ## 📜 Certificaciones
 <details>
   <summary>✅ Click aquí para ver mis certificados</summary>
-  <img src="link_de_la_imagen_1.jpg" width="400">
-  <img src="link_de_la_imagen_2.jpg" width="400">
+  <img src="assets/CertificadoHackingDorks.jpg" width="400">
+  <img src="assets/CertificadoInglés.jpg" width="400">
+  <img src="assets/CertificadoPokemonEcommerce.jpg" width="400">
 </details>
 
 ### 📊 Mis Estadísticas
