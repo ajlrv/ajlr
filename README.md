@@ -1,6 +1,25 @@
-# Bienvenidos a mi página
+# ¡Hola! Soy Antony 👋
 
-## ¿Quién soy?
-Soy egresado del instituto público Carlos Cueto Fernandini 👨‍🎓 <br>
-Cursé las carreras de computación e informática👨‍💻 y de Metalurgia👷‍♂️ <br>
-En este momento estoy cursando el tercer módulo de mis prácticas pre-profesionales
+## 🚀 Sobre mí
+Soy egresado del **Instituto Público Carlos Cueto Fernandini**. Mi perfil combina la precisión técnica de la **Metalurgia** 🏗️ con el mundo de la **Computación e Informática** 💻.
+
+Actualmente, me encuentro potenciando mis habilidades en mi tercer módulo de prácticas pre-profesionales.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+![Skill](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Skill](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Skill](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📜 Certificaciones
+<details>
+  <summary>✅ Click aquí para ver mis certificados</summary>
+  <img src="link_de_la_imagen_1.jpg" width="400">
+  <img src="link_de_la_imagen_2.jpg" width="400">
+</details>
+
+### 📊 Mis Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ajlrv&show_icons=true&theme=radical)
