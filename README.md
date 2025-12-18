@@ -15,12 +15,22 @@ Actualmente, me encuentro potenciando mis habilidades en mi tercer módulo de pr
 ---
 
 ## 📜 Certificaciones
-<details>
-  <summary>✅ Click aquí para ver mis certificados</summary>
-  <img src="assets/CertificadoHackingDorks.jpg" width="400">
-  <img src="assets/CertificadoInglés.jpg" width="400">
-  <img src="assets/CertificadoPokemonEcommerce.jpg" width="400">
-</details>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/CertificadoInglés.jpg" width="300px"><br>
+      <sub><b>Certificado de Inglés</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/CertificadoHackingDorks.jpg" width="300px"><br>
+      <sub><b>Certificado de Hacking</b></sub>
+    </td>
+    <td align="center">
+      <img src="assets/CertificadoPokemonEcommerce.jpg" width="300px"><br>
+      <sub><b>Certificado de Web</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 📊 Mis Estadísticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ajlrv&show_icons=true&theme=radical)
