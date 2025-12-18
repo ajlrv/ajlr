@@ -2,4 +2,5 @@
 
 ## ¿Quién soy?
 Soy egresado del instituto público Carlos Cueto Fernandini 👨‍🎓 <br>
-Cursé las carreras de computación e informática👨‍💻 y de Metalurgia👷‍♂️
+Cursé las carreras de computación e informática👨‍💻 y de Metalurgia👷‍♂️ <br>
+En este momento estoy cursando el tercer módulo de mis prácticas pre-profesionales
